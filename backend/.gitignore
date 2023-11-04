@@ -83,6 +83,9 @@ nbproject
 public/uploads/*
 !public/uploads/.gitkeep
 
+yarn.lock
+package-lock.json
+
 ############################
 # Node.js
 ############################
@@ -106,7 +109,7 @@ coverage
 # Strapi
 ############################
 
-.env
+# .env
 license.txt
 exports
 *.cache
